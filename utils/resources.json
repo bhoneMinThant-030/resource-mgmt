@@ -1,1 +1,18 @@
+<<<<<<< Updated upstream
 []
+=======
+[
+  {
+    "name": "Samsung 50-inch TV",
+    "location": "Blk 3 Lvl 5 Rm 1",
+    "description": "Purchased for XYZ Exhibition",
+    "owner": "john@gmail.com"
+  },
+  {
+    "name": "Iphone",
+    "location": "library",
+    "description": "for me",
+    "owner": "Bhone@gmail.com"
+  }
+]
+>>>>>>> Stashed changes
